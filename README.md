@@ -3,3 +3,4 @@ https://en.wikipedia.org/wiki/Laser_science https://en.wikipedia.org/wiki/Popula
 https://en.wikipedia.org/wiki/Q-switching
 https://en.wikipedia.org/wiki/Mode_locking
 https://en.wikipedia.org/wiki/Continuous_wave
+https://en.wikipedia.org/wiki/Gain-switching
